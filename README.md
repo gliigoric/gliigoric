@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello there, I'm Marko 👋
 
-<!--
-**gliigoric/gliigoric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am third year student of Computer Science and Informatics in School of Electrical Engineering, Belgrade University
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** C, C++, Java, Python, SQL, Javascript
+* **Concepts:** Memory Management, Concurrent and Distributed programming, Data structures and Algorithms
+* **Tools:** Git, Figma, Webflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 Currently Exploring
+* **Low-Level** Operating System internals via custom kernel
+* **Web Development** Full-stack development using Angular, Node.js and MongoDB
+  
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** www.linkedin.com/in/marko-gligoric-58b070405
+* **Email:** m.gligoric26@gmail.com

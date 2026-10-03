@@ -1,20 +1,20 @@
 # Hello there, I'm Marko 👋
 
-I am third year student of Computer Science and Informatics in School of Electrical Engineering, Belgrade University
+I'm a final year Computer Science and Informatics student at the School of Electrical Engineering, University of Belgrade.
 
 ### 🛠 Tech Stack
-* **Languages:** C, C++, Java, Python, SQL, Javascript
-* **Concepts:** Memory Management, Concurrent and Distributed programming, Data structures and Algorithms
+* **Languages:** C, C++, Java, Python, SQL, JavaScript, TypeScript
+* **Frameworks:** MEAN stack
+* **Concepts:** Memory Management, Concurrent and Distributed Programming, Data Structures and Algorithms
 * **Tools:** Git, Figma, Webflow
 
 ---
 
 ### 📈 Currently Exploring
-* **Low-Level** Operating System internals via custom kernel
-* **Web Development** Full-stack development using Angular, Node.js and MongoDB
-  
+* **Intelligent Systems:** Learning the fundamentals of AI and machine learning
+
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** www.linkedin.com/in/marko-gligoric-58b070405
+* **LinkedIn:** [linkedin.com/in/marko-gligoric-58b070405](https://www.linkedin.com/in/marko-gligoric-58b070405)
 * **Email:** m.gligoric26@gmail.com
